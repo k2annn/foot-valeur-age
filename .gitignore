@@ -1,0 +1,6 @@
+# Sources volumineuses : re-téléchargeables via preparation.py
+data/brut/
+
+# Python
+__pycache__/
+.venv/
