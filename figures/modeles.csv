@@ -1,0 +1,16 @@
+poste,modele,k,R2,RMSE_log,AIC,age_du_pic
+Gardiens,quadratique,3,0.9336,0.2242,-65.8,29.0
+Gardiens,cubique,4,0.9358,0.2203,-64.6,29.1
+Gardiens,gaussienne asym.,4,0.9335,0.2243,-63.7,28.9
+Défenseurs,quadratique,3,0.8699,0.3704,-41.7,27.2
+Défenseurs,cubique,4,0.9544,0.2192,-64.8,26.7
+Défenseurs,gaussienne asym.,4,0.9356,0.2607,-56.5,26.5
+Défenseurs,gamma,4,0.9376,0.2566,-57.3,26.8
+Milieux,quadratique,3,0.8911,0.329,-47.4,27.1
+Milieux,cubique,4,0.9195,0.283,-52.6,26.9
+Milieux,gaussienne asym.,4,0.9101,0.299,-49.9,26.8
+Milieux,gamma,4,0.9147,0.2912,-51.2,26.9
+Attaquants,quadratique,3,0.8396,0.3356,-46.4,26.8
+Attaquants,cubique,4,0.912,0.2485,-58.8,26.4
+Attaquants,gaussienne asym.,4,0.8889,0.2793,-53.2,26.2
+Attaquants,gamma,4,0.8942,0.2725,-54.4,26.5

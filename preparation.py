@@ -52,7 +52,10 @@ def main():
         & df["position"].isin(POSTES)
     ]
 
-    colonnes = ["player_id", "annee", "age", "position", "sub_position",
+    # La date est conservée : elle sert à rattacher chaque valorisation à la
+    # saison en cours, et donc au statut et à l'archétype contemporains.
+    df["date"] = df["date"].dt.strftime("%Y-%m-%d")
+    colonnes = ["player_id", "date", "annee", "age", "position", "sub_position",
                 "market_value_in_eur"]
     df[colonnes].to_csv(SORTIE, index=False)
 

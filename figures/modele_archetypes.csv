@@ -1,0 +1,25 @@
+archetype,famille,n,cote_log,effet_multiplicatif,erreur_type
+Ailier combattant,Ailiers,276,0.0,1.0,
+Ailier percuteur,Ailiers,242,0.724,2.06,0.127
+Ailier repiquant,Ailiers,281,-0.265,0.77,0.118
+Attaquant mobile,Attaquants,236,0.111,1.12,0.127
+Défenseur de duel,Défenseurs centraux,763,-0.555,0.57,0.097
+Défenseur latéralisé,Défenseurs centraux,312,-0.469,0.63,0.112
+Défenseur relanceur,Défenseurs centraux,457,0.227,1.26,0.109
+Faux neuf,Attaquants,105,-0.053,0.95,0.169
+Gardien de ligne,Gardiens,179,-0.814,0.44,0.129
+Gardien libéro,Gardiens,134,-0.28,0.76,0.151
+Gardien relanceur long,Gardiens,209,-0.857,0.42,0.124
+Latéral direct,Latéraux,466,-0.792,0.45,0.105
+Latéral offensif,Latéraux,351,-0.497,0.61,0.11
+Latéral technique,Latéraux,459,-0.16,0.85,0.108
+Meneur avancé,Milieux offensifs,233,0.804,2.23,0.128
+Meneur reculé,Milieux offensifs,122,0.187,1.21,0.157
+Milieu de position,Milieux,440,-0.084,0.92,0.109
+Milieu offensif,Milieux,207,-0.061,0.94,0.127
+Passeur long,Milieux,204,-0.397,0.67,0.129
+Piston,Ailiers,228,-0.172,0.84,0.125
+Pivot,Attaquants,317,-0.341,0.71,0.11
+Renard de surface,Attaquants,217,0.405,1.5,0.129
+Récupérateur,Milieux,316,-0.303,0.74,0.116
+Régisseur,Milieux,339,0.287,1.33,0.114

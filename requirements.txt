@@ -1,3 +1,7 @@
 pandas
 matplotlib
 requests
+scipy
+openpyxl
+scikit-learn
+statsmodels
