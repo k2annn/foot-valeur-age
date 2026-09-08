@@ -129,6 +129,11 @@ survie sélective au-delà de 30 :
 La transversale place le pic six ans trop tard et conclut à tort qu'un joueur de
 33 ans a gardé sa valeur. L'intra retrouve la courbe réelle à un point près.
 
+![Courbe d'âge intra-joueur contre transversale](figures/courbe_intra.png)
+
+*Trait plein : estimation intra-joueur. Pointillés : transversale. Valeurs
+rapportées au pic de chaque poste.*
+
 ### Résultat : pas de biais de survie détectable
 
 Sur les données réelles, les deux courbes sont pratiquement superposées.
@@ -163,6 +168,8 @@ détectable et dont la courbe est plus plate et plus tardive.
 L'âge du pic est le résultat le plus robuste : il ne bouge pas selon la
 spécification retenue, entre 26 et 27 ans pour les joueurs de champ, 29 ans pour
 les gardiens.
+
+![Valeur marchande médiane par âge et par poste](figures/courbes.png)
 
 ---
 

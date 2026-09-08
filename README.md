@@ -132,6 +132,11 @@ The cross-sectional method puts the peak six years too late and wrongly
 concludes that a 33-year-old has held his value. The within-player estimate
 recovers the true curve to within a point.
 
+![Within-player vs cross-sectional age curves](figures/courbe_intra.png)
+
+*Solid lines: within-player estimate. Dashed: cross-sectional. Values are
+relative to each position's peak.*
+
 ### Result: no detectable survivorship bias
 
 On real data, the two curves are essentially on top of each other. Decline from
@@ -164,6 +169,8 @@ detectable and whose curve is flatter and later.
 
 Peak age is the most robust finding: it does not move with the specification —
 26 to 27 for outfield players, 29 for goalkeepers.
+
+![Median market value by age and position](figures/courbes.png)
 
 ---
 
