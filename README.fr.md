@@ -12,6 +12,16 @@ Le point de départ est un travail antérieur où ces trois dimensions étaient
 attribuées à la main. L'objectif est ici de les estimer à partir des données, et
 de tester lesquelles résistent.
 
+> **Itération enrichie 2021–2025.** L'analyse décrite ci-dessous reste la
+> version 1. Une base annuelle distincte de 13 637 lignes joueur-année rassemble
+> les absences pour blessures documentées, le statut des sources de contrats,
+> les salaires estimés Capology et la trace des passages entre clubs.
+> `iteration_v2.py` reconstruit `data/v2/` à partir du classeur source.
+> Voir la [méthode, les champs et les limites](docs/iteration_v2.md).
+> Le modèle expérimental v2 ne remplace pas les résultats ci-dessous :
+> aucune échéance de contrat n'est certifiée en fin de saison, la couverture
+> salariale est inégale et l'exhaustivité FBref n'est pas certifiée.
+
 ---
 
 ## Table des matières
