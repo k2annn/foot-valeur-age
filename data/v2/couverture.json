@@ -1,0 +1,54 @@
+{
+  "grain": "player_id × annee (année de fin de saison)",
+  "source": "DBFOOT_joueurs_2021_2025.xlsx",
+  "exhaustivite_fbref_certifiee": false,
+  "par_annee": {
+    "2021": {
+      "joueurs": 2704,
+      "multi_clubs": 116,
+      "valeurs": 2470,
+      "valorisations_plus_de_180_jours": 10,
+      "blessures_documentees": 1158,
+      "salaires": 1988,
+      "contrats_certifies_au_30_juin": 0
+    },
+    "2022": {
+      "joueurs": 2789,
+      "multi_clubs": 131,
+      "valeurs": 2551,
+      "valorisations_plus_de_180_jours": 19,
+      "blessures_documentees": 1107,
+      "salaires": 0,
+      "contrats_certifies_au_30_juin": 0
+    },
+    "2023": {
+      "joueurs": 2725,
+      "multi_clubs": 164,
+      "valeurs": 2527,
+      "valorisations_plus_de_180_jours": 26,
+      "blessures_documentees": 1136,
+      "salaires": 418,
+      "contrats_certifies_au_30_juin": 0
+    },
+    "2024": {
+      "joueurs": 2711,
+      "multi_clubs": 141,
+      "valeurs": 2491,
+      "valorisations_plus_de_180_jours": 28,
+      "blessures_documentees": 1184,
+      "salaires": 433,
+      "contrats_certifies_au_30_juin": 0
+    },
+    "2025": {
+      "joueurs": 2708,
+      "multi_clubs": 146,
+      "valeurs": 2422,
+      "valorisations_plus_de_180_jours": 135,
+      "blessures_documentees": 1181,
+      "salaires": 416,
+      "contrats_certifies_au_30_juin": 0
+    }
+  },
+  "ordre_clubs_non_resolu": 93,
+  "doublons": 0
+}

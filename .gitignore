@@ -1,5 +1,8 @@
 # Sources volumineuses : re-téléchargeables via preparation.py
 data/brut/
+data/brut_xlsx/
+data/v2/source/
+data/v2/joueurs_annees.csv.gz
 
 # Python
 __pycache__/

@@ -9,6 +9,15 @@ The starting point was an earlier project where these three dimensions were
 assigned by hand. The goal here is to estimate them from data instead, and find
 out which ones survive contact with it.
 
+> **2021–2025 enriched iteration.** The original analysis below is retained as
+> version 1. A separate annual dataset of 13,637 player-years now includes
+> documented injury absences, contract-source status, estimated Capology salaries
+> and multiple-club provenance. Run `iteration_v2.py` with the source workbook
+> to reproduce `data/v2/`. See [methods, fields and limitations](docs/iteration_v2.md).
+> The experimental version 2 model does not replace the results below: no
+> contract expiry is certified as of season end, salary coverage is uneven,
+> and the five FBref seasons are not certified exhaustive.
+
 > **A note on language.** This README is in English; the code, column names and
 > archetype labels are in French. Football terms such as *faux neuf*,
 > *régisseur* and *libéro* are kept in French throughout, including in the
